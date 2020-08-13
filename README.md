@@ -1,0 +1,1 @@
+### This is a simple project used as an introduction to RabbitMQ in Go
